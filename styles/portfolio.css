@@ -1,0 +1,242 @@
+* {
+  margin: 0;
+}
+.awlad {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 32px;
+}
+#k {
+  font-size: xx-large;
+  font-weight: bold;
+  margin-left: 150px;
+  width: 114px;
+  height: 34px;
+}
+#btn1 {
+  color: black;
+  background-color: white;
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 15px 35px;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  margin-top: 10px;
+  margin-right: 150px;
+}
+#first {
+  background-image: url(../B10A1-Challenge-Begins/assets/Hero-bg.png);
+  height: 800px;
+
+  margin-top: 60px;
+}
+#group {
+  display: flex;
+  align-items: center;
+}
+#image {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  padding-top: 60px;
+}
+#head1 {
+  font-weight: bolder;
+  font-size: 70px;
+  max-width: 900px;
+  margin: auto;
+  text-align: center;
+}
+#btn2 {
+  background-color: black;
+  color: white;
+  border: 2px solid black;
+  border-radius: 5px;
+
+  height: 65px;
+  width: 244px;
+  font-size: x-large;
+}
+#head2 {
+  text-align: center;
+  font-weight: 400;
+  width: 900px;
+}
+.head3 {
+  font-size: 60px;
+}
+h4 {
+  text-align: center;
+  width: 900px;
+  font-size: 20px;
+  font-weight: 400;
+}
+.first-div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 10px;
+}
+.dev-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.second-step {
+  padding-left: 400px;
+  padding-right: 400px;
+}
+.head4 {
+  max-width: 300px;
+  padding-bottom: 15px;
+}
+#para2 {
+  padding-bottom: 15px;
+}
+#btn3 {
+  padding: 10px;
+  font-size: large;
+}
+.dev-section2 {
+  display: flex;
+  flex-direction: row-reverse;
+
+  padding-right: 350px;
+  align-items: center;
+  gap: 350px;
+}
+#iframe {
+  display: flex;
+  justify-content: center;
+  padding-top: 25px;
+}
+.skill {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.para4 {
+  max-width: 290px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-weight: 500;
+}
+#html {
+  padding-left: 15px;
+  height: 299px;
+  width: 264px;
+  background: #ff651e;
+
+  border-radius: 5px;
+}
+#css {
+  padding-left: 15px;
+  height: 299px;
+  width: 264px;
+  background: #004ce8;
+
+  border-radius: 5px;
+}
+#javascript {
+  padding-left: 15px;
+  height: 299px;
+  width: 264px;
+  background: #ffdf00;
+
+  border-radius: 5px;
+}
+.btn4 {
+  background-color: #ff651e;
+  border-style: none;
+
+  text-decoration: underline;
+  font-weight: bolder;
+}
+.btn5 {
+  background-color: #004ce8;
+  border-style: none;
+
+  text-decoration: underline;
+  font-weight: bolder;
+}
+.btn6 {
+  background-color: #ffdf00;
+  border-style: none;
+
+  text-decoration: underline;
+  font-weight: bolder;
+}
+.logo1 {
+  padding-top: 10px;
+}
+#section-last{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#support{
+  font-weight: 800;
+  font-size:xx-large;
+  color: white;
+}
+.last-one{
+ 
+ border-radius: 8px;
+  background-image: url(../B10A1-Challenge-Begins/assets/handshake.jpg);
+  background-repeat: no-repeat;
+  height: 300px;
+  max-width: 1500px;
+  
+ background-position: center;
+ background-size: cover;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ flex-direction: column;
+ gap: 40px;
+}
+#foot-para {
+  padding-top: 5px;
+  padding-left: 500px;
+  font-weight: bolder;
+  font-size: larger;
+  
+}
+#lorem{
+  max-width: 900px;
+color: white;
+}
+#foot {
+  padding-top: 25px;
+  display: flex;
+  justify-content: space-between;
+
+}
+#last{
+  display: inline;
+  align-items: end;
+  padding-right: 500px;
+  gap:5px
+}
+#inside{
+  display: inline;
+  align-items: center;
+}
+#khali{
+  height: 45px;
+  width: 450px;
+  border-radius: 8px;
+}
+#btn7{
+  
+ height: 45px;
+ width: 125px;
+ font-size: xx-large;
+ border-radius: 8px;
+}
