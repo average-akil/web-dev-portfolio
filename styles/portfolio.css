@@ -26,7 +26,7 @@
   margin-right: 150px;
 }
 #first {
-  background-image: url(../B10A1-Challenge-Begins/assets/Hero-bg.png);
+  background-image: url(../assets/Hero-bg.png);
   height: 800px;
 
   margin-top: 60px;
@@ -188,7 +188,7 @@ h4 {
 .last-one{
  
  border-radius: 8px;
-  background-image: url(../B10A1-Challenge-Begins/assets/handshake.jpg);
+  background-image: url(../assets/handshake.jpg);
   background-repeat: no-repeat;
   height: 300px;
   max-width: 1500px;
