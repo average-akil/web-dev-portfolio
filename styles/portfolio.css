@@ -104,10 +104,9 @@ h4 {
 .dev-section2 {
   display: flex;
   flex-direction: row-reverse;
-
-  
+  padding-left:350px;
   align-items: center;
-  
+  gap:250px;
 }
 #iframe {
   display: flex;
